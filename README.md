@@ -1,8 +1,8 @@
 # Movies-ETL Analysis
 
 Resources:
-    Python 3.7; Jupyter Notebook
-    Postgres SQL; PGAdmin
+ - Python 3.7; Jupyter Notebook
+ - Postgres SQL; PGAdmin
 
 Project Overview:
 
